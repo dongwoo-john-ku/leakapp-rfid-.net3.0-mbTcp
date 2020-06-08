@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T1BLidentUTest", "T1BLidentUTest\T1BLidentUTest.csproj", "{467C204B-C7AF-40EA-9561-545F457DAD4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T1UInterface", "..\T1BLUInterface\T1UInterface\T1UInterface.csproj", "{3F2DDA8F-F43F-4E56-B81D-683A7BDC443D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{467C204B-C7AF-40EA-9561-545F457DAD4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467C204B-C7AF-40EA-9561-545F457DAD4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467C204B-C7AF-40EA-9561-545F457DAD4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467C204B-C7AF-40EA-9561-545F457DAD4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2DDA8F-F43F-4E56-B81D-683A7BDC443D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2DDA8F-F43F-4E56-B81D-683A7BDC443D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2DDA8F-F43F-4E56-B81D-683A7BDC443D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2DDA8F-F43F-4E56-B81D-683A7BDC443D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {545AE9F8-9080-46BC-AAAA-BD906300DE14}
+	EndGlobalSection
+EndGlobal
